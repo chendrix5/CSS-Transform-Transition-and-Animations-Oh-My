@@ -1,1 +1,7 @@
-
+button{
+    color: ghostwhite;
+}
+button{
+    transition: all 2s ease;
+    
+}
